@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\danil\Desktop\alura-codigos\02 java e spring boot\.metadata\.plugins\org.eclipse.jdt.core
+3413725848.index
+954761010.index
+3707781016.index
+1865797976.index
